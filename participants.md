@@ -15,7 +15,7 @@ A list of participants in CSC 195
 * Khoa Nguyen
 * Linda Oyolu
 * Samuel A. Rebelsky
-* Swarnakala
+* Swarna kala
 * Abby E. Stevens
 * Zoe Wolter
 * Muhammad Samee Zahid
